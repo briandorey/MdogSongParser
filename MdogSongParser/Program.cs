@@ -28,8 +28,8 @@ namespace MdogSongParser
                     var message = JsonConvert.DeserializeObject<Root>(json);
 
                     StringBuilder builder = new StringBuilder();
-
-
+                    builder.Append("<song title=\"" + message.now_playing.song.text + "\" url=\"\"></song>" + Environment.NewLine);
+                    /*
                     builder.Append("<audio ID=\"" + message.now_playing.song.id + "\">" + Environment.NewLine);
                     builder.Append("<type>Song</type>" + Environment.NewLine);
                     builder.Append("<status>Playing</status>" + Environment.NewLine);
@@ -40,7 +40,7 @@ namespace MdogSongParser
                     builder.Append("<genre>" + message.now_playing.song.genre + "</genre>" + Environment.NewLine);
                     builder.Append("<art>" + message.now_playing.song.art + "</art>" + Environment.NewLine);
                     builder.Append("</audio>" + Environment.NewLine);
-
+                    */
                     Console.Write(builder.ToString());
                     if (CurrentSongID != message.now_playing.song.id.ToString())
                     {

@@ -8,3 +8,14 @@ E:\Documents\Visual Studio Projects\MdogSongParser\obj\Debug\MdogSongParser.cspr
 E:\Documents\Visual Studio Projects\MdogSongParser\obj\Debug\MdogSongParser.csproj.CopyComplete
 E:\Documents\Visual Studio Projects\MdogSongParser\obj\Debug\MdogSongParser.exe
 E:\Documents\Visual Studio Projects\MdogSongParser\obj\Debug\MdogSongParser.pdb
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\bin\Debug\MdogSongParser.exe.config
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\bin\Debug\MdogSongParser.exe
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\bin\Debug\MdogSongParser.pdb
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\obj\Debug\MdogSongParser.csproj.AssemblyReference.cache
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\obj\Debug\MdogSongParser.csproj.SuggestedBindingRedirects.cache
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\obj\Debug\MdogSongParser.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\obj\Debug\MdogSongParser.csproj.CopyComplete
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\obj\Debug\MdogSongParser.exe
+E:\Documents\GitHub\briandorey\MdogSongParser\MdogSongParser\obj\Debug\MdogSongParser.pdb

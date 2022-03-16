@@ -1,10 +1,1 @@
-<audio ID="be69234bcdb8c0a55178d64073a9564d">
-<type>Song</type>
-<status>Playing</status>
-<artist>Volen Sentir</artist>
-<title>Ororel</title>
-<duration>391</title>
-<text>Volen Sentir - Ororel</text>
-<genre>Electro</genre>
-<art>https://radio.mdogradio.com/api/station/1/art/064b24b7ea7c8c89e66a1aab-1647215194.jpg</art>
-</audio>
+<song title="Teddy Killerz - Night Train" url=""></song>
